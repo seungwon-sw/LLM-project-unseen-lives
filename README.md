@@ -44,4 +44,11 @@
 '나 자신(건강)']<br>
 선택의 결과 : 상황별 주인공의 현상황, 인물별 주인공에 대한 현재 호감도 및 생각 혹은 입장을 요약한다. 이때 선택받지 못한 사람과는 멀어지고 선택한 사람과는 풍부한 서사를 만들어 선택에 따른 결과에 대비감을 줄 수 있게 한다.<br>
 
-   
+(11/2, 20:55)
+프롬프트의 문제인지 원하는대로 나오지 않음. 
+프롬프트 프레임워크 있는 거 갖다 써보면 좋을 듯. 
+1. RTF : Role-Task-Format
+2. TAG : Task-Action-Goal
+3. BAB : Before-After-Bridge
+4. CARE : Context-Action-Result-Example
+5. RISE : Context-Action-Result-Example
